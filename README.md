@@ -20,6 +20,8 @@ gem "binding_of_caller"
 ```
 
 **Wait**
-_Are you getting an error that Better_Errors isn't working?_
+<hr>
+_'Are you getting an error that Better_Errors isn't working?'_
+
 Try adding:
 `config.consider_all_requests_local = true` in **`config/environments/development.rb`**
